@@ -46,5 +46,3 @@ task-management-frontend/
 └── README.md
 
 ```
-
-Try the application [here](https://go-invoice-frontend-58444507601.asia-southeast1.run.app)
